@@ -1,0 +1,50 @@
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.exe
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.deps.json
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.runtimeconfig.json
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.dll
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.pdb
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.Form1.resources
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.AssemblyInfo.cs
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.dll
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\refint\MarchzinsRechner.dll
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.pdb
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.genruntimeconfig.cache
+C:\Users\nikol\Desktop\IDPA 2023\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\ref\MarchzinsRechner.dll
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.exe
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.deps.json
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.runtimeconfig.json
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.dll
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.pdb
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.AssemblyReference.cache
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.Form1.resources
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.GenerateResource.cache
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.AssemblyInfoInputs.cache
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.AssemblyInfo.cs
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.CoreCompileInputs.cache
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.dll
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\refint\MarchzinsRechner.dll
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.pdb
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.genruntimeconfig.cache
+C:\Users\BRANCO COSTA\Downloads\MarchzinsRechner\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\ref\MarchzinsRechner.dll
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.exe
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.deps.json
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.runtimeconfig.json
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.dll
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\bin\Debug\net7.0-windows\MarchzinsRechner.pdb
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.AssemblyReference.cache
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.Form1.resources
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.GenerateResource.cache
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.AssemblyInfoInputs.cache
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.AssemblyInfo.cs
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.csproj.CoreCompileInputs.cache
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.dll
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\refint\MarchzinsRechner.dll
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.pdb
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\MarchzinsRechner.genruntimeconfig.cache
+C:\Users\Thikal\Downloads\MarchzinsRechner\MarchzinsRechner\obj\Debug\net7.0-windows\ref\MarchzinsRechner.dll
